@@ -38,26 +38,6 @@ def tally_folders():
     print("Total number of characteristic clusters: ", sum(analysis))
     #assignments = test2[test2 > 50]
 
-def travis_prototypes():
-    os.chdir("C:/Dev/Clustering/Wildlife Acoustics/Travis County Birdsounds/Butler_Wild-Basin")
-    df = pd.read_csv("cluster.csv")
-    # list(df.columns)
-    df2 = df.groupby('TOP1MATCH*').head(3).reset_index(drop=True)
-    # butler_recordings = df2['FOLDER'].str.contains('Butler')
-    # wild_basin_recordings = df2['FOLDER'].str.contains('Wild Basin')
-
-    dest_folder = "Y:\Dev\Austin_Samples"
-    src = "Y:\Dev\Spring 2016 Bird Recordings"
-    for i in range(df2.shape[0]):
-        source = os.path.join(src, df2['FOLDER'][i],df2['IN FILE'][i])
-        dest = os.path.join(dest_folder, df2['FOLDER'][i], df2['IN FILE'][i])
-        os.makedirs(os.path.dirname(dest), exist_ok=True)
-        shutil.copyfile(source, dest)
-    dest_csv = os.path.join(dest_folder, 'metadata.csv')
-    df2.to_csv(dest_csv)
-    print("OK")
-
-
 if __name__ == '__main__':
     random.seed()
     #travis_prototypes()
