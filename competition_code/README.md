@@ -1,3 +1,8 @@
+The base organization--folder, class structure--for this code began from this template: https://github.com/victoresque/pytorch-template
+
+It has since been modified for use in the Kaggle birdclef competition.
+
+
 # PyTorch Template Project
 PyTorch deep learning project made easy.
 
