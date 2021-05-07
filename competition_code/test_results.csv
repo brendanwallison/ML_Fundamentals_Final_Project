@@ -1,0 +1,2401 @@
+,0,1
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,bucmot2,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,bucmot2,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,whtspa,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,whtspa,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,whtspa,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,rubwre1
+1,wbwwre1,nocall
+2,wbwwre1,rubwre1
+3,nocall,nocall
+4,nocall,rubwre1
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,obnthr1
+28,nocall,obnthr1
+29,nocall,obnthr1
+30,nocall,obnthr1
+31,nocall,obnthr1
+32,nocall,obnthr1
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,brnjay
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,brnjay
+54,nocall,brnjay sthwoo1
+55,nocall,brnjay
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,rubwre1,rubwre1
+103,rubwre1,rubwre1
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,rucwar
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,rucwar
+4,nocall,rucwar
+5,nocall,rucwar
+6,nocall,rucwar
+7,nocall,rucwar
+8,nocall,rucwar
+9,nocall,rucwar
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,rucwar
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,rucwar
+16,nocall,rucwar
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,rucwar
+28,nocall,rucwar
+29,nocall,rucwar
+30,nocall,rucwar
+31,rucwar,rucwar
+32,rucwar,rucwar
+33,nocall,rucwar
+34,nocall,rucwar
+35,nocall,rucwar
+36,nocall,rucwar
+37,rucwar,rucwar
+38,nocall,rucwar
+39,nocall,grekis rucwar
+40,nocall,rucwar
+41,nocall,nocall
+42,nocall,rucwar
+43,nocall,rucwar
+44,nocall,rucwar
+45,nocall,rucwar
+46,rucwar,rucwar runwre1
+47,nocall,rucwar
+48,rucwar,rucwar
+49,nocall,rucwar
+50,nocall,rucwar
+51,nocall,rucwar
+52,nocall,rucwar
+53,nocall,rucwar
+54,nocall,rucwar
+55,nocall,nocall
+56,nocall,rucwar
+57,rucwar,rtlhum rucwar
+58,rucwar,rucwar
+59,nocall,rucwar
+60,rucwar,rucwar
+61,rucwar,rucwar
+62,nocall,rucwar
+63,nocall,hofwoo1
+64,rucwar,hofwoo1 rucwar
+65,rucwar,rucwar
+66,nocall,hofwoo1 rucwar
+67,nocall,rucwar
+68,nocall,rucwar
+69,rucwar,rucwar
+70,rucwar,rucwar
+71,nocall,rucwar
+72,nocall,rucwar
+73,rucwar,rucwar
+74,nocall,rucwar
+75,nocall,rucwar
+76,nocall,rucwar
+77,nocall,rucwar
+78,nocall,rucwar
+79,nocall,rucwar
+80,rucwar,rucwar
+81,rucwar,rucwar
+82,rucwar,rucwar
+83,nocall,rucwar
+84,nocall,rucwar
+85,nocall,rucwar
+86,nocall,rucwar
+87,nocall,rucwar
+88,nocall,nocall
+89,nocall,rucwar
+90,nocall,rucwar
+91,nocall,rucwar
+92,nocall,rucwar
+93,nocall,rucwar
+94,nocall,nocall
+95,nocall,nocall
+96,belkin1,hofwoo1
+97,nocall,hofwoo1
+98,belkin1 yebcha,hofwoo1 rucwar runwre1
+99,nocall,rucwar runwre1
+100,nocall,rucwar
+101,nocall,rucwar
+102,nocall,rucwar
+103,nocall,rucwar
+104,nocall,rucwar
+105,nocall,rucwar
+106,nocall,rucwar
+107,nocall,nocall
+108,nocall,rucwar
+109,nocall,rucwar
+110,nocall,nocall
+111,nocall,rucwar
+112,nocall,nocall
+113,nocall,rucwar
+114,nocall,rucwar
+115,nocall,rucwar
+116,nocall,rucwar
+117,nocall,runwre1
+118,nocall,rucwar runwre1
+119,nocall,rucwar
+0,nocall,grekis rucwar
+1,nocall,grekis rucwar
+2,rucwar,rucwar
+3,nocall,rucwar
+4,nocall,rucwar
+5,nocall,grekis rucwar
+6,nocall,rucwar
+7,nocall,grekis rucwar
+8,nocall,rucwar
+9,nocall,nocall
+10,nocall,grekis
+11,grekis,grekis rucwar
+12,nocall,grekis rucwar
+13,nocall,rucwar
+14,nocall,grekis
+15,nocall,rucwar
+16,nocall,rucwar
+17,nocall,grekis runwre1
+18,nocall,rucwar
+19,nocall,clcrob rucwar
+20,nocall,clcrob rucwar
+21,clcrob,rucwar
+22,nocall,rucwar
+23,nocall,clcrob
+24,nocall,clcrob
+25,nocall,rucwar
+26,nocall,runwre1
+27,nocall,runwre1 yehcar1
+28,nocall,rucwar runwre1 yehcar1
+29,nocall,rucwar
+30,nocall,rucwar
+31,nocall,rucwar
+32,nocall,rucwar
+33,nocall,rucwar
+34,nocall,rucwar
+35,nocall,rucwar
+36,rucwar,rucwar
+37,rucwar,rucwar
+38,nocall,rucwar
+39,nocall,rucwar
+40,nocall,rucwar
+41,nocall,nocall
+42,nocall,rucwar
+43,nocall,rucwar
+44,nocall,rucwar
+45,nocall,rucwar
+46,nocall,rucwar
+47,nocall,rucwar
+48,melbla1,melbla1
+49,melbla1,melbla1
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,crfpar
+54,nocall,crfpar
+55,nocall,crfpar rucwar
+56,nocall,crfpar
+57,nocall,crfpar
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,crfpar
+61,nocall,crfpar
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,runwre1
+69,nocall,runwre1
+70,nocall,runwre1
+71,nocall,crfpar
+72,nocall,crfpar
+73,nocall,crfpar
+74,nocall,crfpar
+75,nocall,rucwar
+76,nocall,rucwar
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,rucwar
+82,nocall,rucwar
+83,nocall,rucwar
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,rucwar runwre1
+87,nocall,rucwar runwre1
+88,nocall,rucwar
+89,nocall,nocall
+90,nocall,rucwar
+91,nocall,rucwar
+92,nocall,rucwar
+93,nocall,hofwoo1 rucwar
+94,nocall,hofwoo1 rucwar
+95,nocall,nocall
+96,nocall,rucwar
+97,nocall,rucwar
+98,nocall,rucwar whcpar
+99,nocall,whcpar
+100,nocall,whcpar
+101,rcatan1,whcpar
+102,nocall,hofwoo1 whcpar
+103,nocall,whcpar
+104,nocall,hofwoo1
+105,nocall,crfpar
+106,nocall,crfpar
+107,nocall,crfpar runwre1
+108,nocall,crfpar runwre1
+109,nocall,crfpar runwre1
+110,nocall,rucwar runwre1
+111,nocall,rucwar runwre1
+112,nocall,rucwar
+113,nocall,crfpar rucwar
+114,nocall,rucwar
+115,nocall,rucwar
+116,nocall,rucwar
+117,nocall,rucwar
+118,nocall,crfpar
+119,nocall,nocall
+0,nocall,bobfly1
+1,nocall,bobfly1
+2,nocall,bobfly1
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,bobfly1
+6,nocall,bobfly1
+7,nocall,bobfly1 rucwar
+8,nocall,rucwar
+9,nocall,rucwar
+10,bobfly1,bobfly1 rucwar
+11,nocall,bobfly1
+12,bobfly1,bobfly1
+13,nocall,bobfly1 rucwar
+14,nocall,rucwar
+15,nocall,rucwar
+16,nocall,nocall
+17,nocall,rucwar
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,rucwar
+21,nocall,bobfly1
+22,nocall,bobfly1 rucwar
+23,nocall,bobfly1
+24,nocall,bobfly1
+25,nocall,bobfly1
+26,nocall,bobfly1
+27,nocall,bobfly1
+28,nocall,rucwar
+29,nocall,rucwar
+30,nocall,rucwar
+31,nocall,rucwar
+32,nocall,rucwar
+33,nocall,nocall
+34,nocall,rucwar
+35,nocall,rucwar
+36,nocall,rucwar
+37,nocall,rucwar
+38,nocall,rucwar
+39,nocall,rucwar
+40,nocall,rucwar
+41,nocall,rucwar
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,hofwoo1
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,bobfly1
+59,nocall,bobfly1
+60,nocall,nocall
+61,bobfly1,bobfly1
+62,nocall,bobfly1
+63,nocall,bobfly1
+64,nocall,bobfly1
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,bobfly1
+82,nocall,grhcha1
+83,nocall,grhcha1
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,bobfly1 goowoo1,hofwoo1
+96,nocall,hofwoo1
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,brnjay
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,nocall
+1,nocall,bobfly1
+2,bobfly1,nocall
+3,bobfly1,bobfly1
+4,bobfly1,bobfly1
+5,bobfly1,bobfly1
+6,nocall,bobfly1
+7,bobfly1,bobfly1
+8,bobfly1,bobfly1
+9,bobfly1,bobfly1
+10,bobfly1,bobfly1
+11,bobfly1,bobfly1
+12,nocall,bobfly1
+13,nocall,bobfly1
+14,nocall,bobfly1
+15,bobfly1,bobfly1
+16,bobfly1,bobfly1
+17,nocall,nocall
+18,nocall,bobfly1
+19,nocall,bobfly1
+20,nocall,nocall
+21,nocall,bobfly1
+22,grekis,grekis
+23,grekis,grekis
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,plawre1
+38,nocall,plawre1
+39,nocall,bobfly1 plawre1
+40,nocall,bobfly1 plawre1
+41,nocall,bobfly1 plawre1
+42,nocall,bobfly1 plawre1
+43,nocall,bobfly1 plawre1
+44,nocall,nocall
+45,nocall,plawre1
+46,nocall,bobfly1 plawre1
+47,nocall,bobfly1
+48,bobfly1,nocall
+49,nocall,plawre1
+50,nocall,bobfly1 plawre1
+51,bobfly1,bobfly1
+52,bobfly1,bobfly1
+53,nocall,bobfly1
+54,nocall,bobfly1
+55,nocall,bobfly1 plawre1
+56,nocall,bobfly1
+57,bobfly1,bobfly1
+58,bobfly1,bobfly1
+59,nocall,bobfly1
+60,nocall,bobfly1
+61,nocall,bobfly1
+62,nocall,bobfly1
+63,nocall,bobfly1
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,bobfly1
+77,nocall,bobfly1
+78,nocall,bobfly1
+79,nocall,bobfly1
+80,nocall,nocall
+81,nocall,bobfly1
+82,nocall,bobfly1
+83,nocall,bobfly1
+84,nocall,bobfly1
+85,bobfly1,bobfly1
+86,nocall,bobfly1
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,bobfly1
+90,nocall,bobfly1
+91,nocall,nocall
+92,nocall,bobfly1
+93,bobfly1,bobfly1
+94,bobfly1,bobfly1
+95,nocall,bobfly1
+96,nocall,bobfly1
+97,nocall,bobfly1
+98,nocall,bobfly1
+99,nocall,bobfly1
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,brnjay,brnjay
+115,nocall,brnjay
+116,nocall,orcpar
+117,nocall,bobfly1 orfpar
+118,nocall,bobfly1
+119,nocall,bobfly1
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,grhcha1,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,orcpar,orcpar
+71,nocall,orcpar
+72,nocall,orcpar
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,bobfly1
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,bobfly1,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,bobfly1,bobfly1
+118,compot1,nocall
+119,compot1,nocall
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,rubwre1
+4,nocall,rubwre1
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,rubwre1
+8,nocall,rubwre1
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,rubwre1
+12,nocall,rubwre1
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,rubwre1
+18,nocall,rubwre1
+19,yefgra1,bucmot2 rubwre1
+20,nocall,bucmot2 rubwre1
+21,nocall,bucmot2 rubwre1
+22,nocall,bucmot2 rubwre1
+23,nocall,nocall
+24,nocall,rubwre1
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,bobfly1
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,bobfly1
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,obnthr1
+93,nocall,nocall
+94,nocall,obnthr1
+95,nocall,obnthr1
+96,obnthr1,obnthr1
+97,obnthr1,obnthr1
+98,obnthr1,obnthr1
+99,nocall,obnthr1
+100,nocall,obnthr1
+101,nocall,obnthr1
+102,nocall,obnthr1
+103,obnthr1,obnthr1
+104,nocall,obnthr1
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,bkcchi grycat reevir1
+1,nocall,eawpew grycat reevir1
+2,nocall,bkcchi eawpew grycat reevir1
+3,grycat,eawpew grycat reevir1
+4,nocall,eawpew grycat reevir1
+5,nocall,bkcchi reevir1
+6,nocall,eawpew grycat reevir1
+7,grycat,bkcchi eawpew grycat reevir1
+8,nocall,eawpew reevir1
+9,nocall,bkcchi eawpew reevir1
+10,nocall,bkcchi eawpew reevir1
+11,nocall,bkcchi eawpew reevir1
+12,nocall,bkcchi eawpew reevir1
+13,nocall,eawpew reevir1
+14,nocall,bkcchi eawpew grycat reevir1
+15,nocall,eawpew grycat reevir1
+16,nocall,grycat reevir1
+17,nocall,eawpew grycat reevir1
+18,nocall,eawpew grycat reevir1
+19,nocall,bkcchi reevir1
+20,herthr,eawpew reevir1
+21,nocall,bkcchi eawpew reevir1
+22,nocall,eawpew reevir1
+23,nocall,reevir1
+24,nocall,bkcchi eawpew reevir1
+25,nocall,grycat reevir1
+26,nocall,eawpew grycat reevir1
+27,eawpew,eawpew grycat reevir1
+28,nocall,eawpew reevir1
+29,nocall,reevir1
+30,nocall,eawpew reevir1
+31,nocall,eawpew reevir1
+32,nocall,reevir1
+33,nocall,eawpew reevir1
+34,nocall,eawpew reevir1
+35,nocall,reevir1
+36,nocall,eawpew grycat reevir1
+37,nocall,eawpew grycat reevir1
+38,nocall,grycat reevir1
+39,nocall,eawpew grycat reevir1
+40,nocall,grycat reevir1
+41,nocall,eawpew grycat reevir1
+42,nocall,grycat reevir1
+43,nocall,eawpew grycat reevir1
+44,nocall,eawpew grycat reevir1
+45,eawpew,chswar eawpew grycat reevir1
+46,grycat,grycat reevir1
+47,nocall,chswar eawpew reevir1
+48,nocall,grycat reevir1
+49,nocall,eawpew grycat reevir1
+50,obnthr1,grycat reevir1
+51,nocall,grycat reevir1
+52,eawpew reevir1,eawpew reevir1
+53,nocall,eawpew reevir1
+54,nocall,bkcchi grycat reevir1
+55,eawpew,eawpew reevir1
+56,reevir1,reevir1
+57,reevir1,eawpew reevir1
+58,nocall,reevir1
+59,nocall,eawpew reevir1
+60,nocall,eawpew reevir1
+61,nocall,bkcchi reevir1
+62,eawpew,eawpew reevir1
+63,nocall,reevir1
+64,eawpew,eawpew reevir1
+65,eawpew,reevir1
+66,eawpew,eawpew reevir1
+67,nocall,reevir1
+68,eawpew,eawpew reevir1
+69,nocall,reevir1
+70,nocall,eawpew reevir1
+71,nocall,reevir1
+72,nocall,eawpew reevir1
+73,nocall,reevir1
+74,nocall,reevir1
+75,nocall,reevir1
+76,reevir1,eawpew reevir1
+77,nocall,bkcchi reevir1
+78,nocall,eawpew reevir1
+79,nocall,reevir1
+80,nocall,eawpew reevir1
+81,nocall,reevir1
+82,eawpew,eawpew reevir1
+83,reevir1,reevir1
+84,reevir1,reevir1
+85,nocall,eawpew reevir1
+86,nocall,reevir1
+87,nocall,eawpew reevir1
+88,nocall,bkcchi eawpew reevir1
+89,nocall,eawpew reevir1
+90,reevir1,eawpew reevir1
+91,nocall,bkcchi reevir1
+92,nocall,eawpew reevir1
+93,nocall,bkcchi eawpew reevir1
+94,nocall,bkcchi reevir1
+95,bkcchi,bkcchi eawpew reevir1
+96,nocall,bkcchi eawpew reevir1
+97,nocall,bkcchi eawpew reevir1
+98,nocall,bkcchi eawpew reevir1
+99,nocall,bkcchi eawpew reevir1
+100,nocall,bkcchi eawpew reevir1
+101,nocall,bkcchi eawpew reevir1
+102,nocall,eawpew reevir1
+103,nocall,bkcchi reevir1
+104,nocall,bkcchi eawpew reevir1
+105,nocall,reevir1
+106,nocall,bkcchi eawpew reevir1
+107,nocall,bkcchi eawpew reevir1
+108,nocall,reevir1
+109,nocall,bkcchi eawpew reevir1
+110,nocall,reevir1
+111,nocall,reevir1
+112,nocall,eawpew reevir1
+113,nocall,eawpew reevir1
+114,nocall,eawpew reevir1
+115,nocall,eawpew reevir1
+116,nocall,eawpew reevir1
+117,nocall,bkcchi reevir1
+118,nocall,bkcchi eawpew reevir1
+119,nocall,eawpew reevir1
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,daejun,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,bkcchi
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,bkcchi
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,blujay
+106,nocall,blujay
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,nocall
+1,swaspa,swaspa
+2,nocall,nocall
+3,nocall,nocall
+4,swaspa,swaspa
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,blujay
+10,nocall,blujay
+11,nocall,bkcchi
+12,nocall,bkcchi
+13,nocall,nocall
+14,nocall,nocall
+15,bkcchi,bkcchi
+16,dowwoo,dowwoo
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,bkcchi,bkcchi
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,bkcchi,bkcchi
+26,nocall,nocall
+27,bkcchi,bkcchi
+28,bkcchi,bkcchi
+29,bkcchi,nocall
+30,bkcchi,nocall
+31,nocall,bkcchi
+32,bkcchi,bkcchi
+33,bkcchi,bkcchi
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,rewbla,rewbla
+41,nocall,nocall
+42,bkcchi,nocall
+43,nocall,nocall
+44,tuftit,nocall
+45,nocall,rewbla
+46,nocall,rewbla
+47,bkcchi rewbla,nocall
+48,nocall,rewbla
+49,nocall,nocall
+50,rewbla,rewbla
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,rewbla
+55,nocall,nocall
+56,rewbla,belkin1 rewbla
+57,nocall,rewbla
+58,nocall,haiwoo
+59,nocall,haiwoo rewbla
+60,rewbla,rewbla
+61,nocall,rewbla
+62,nocall,nocall
+63,dowwoo,rewbla
+64,dowwoo,dowwoo
+65,nocall,haiwoo
+66,nocall,haiwoo
+67,nocall,rewbla
+68,nocall,rewbla
+69,nocall,rewbla
+70,nocall,rewbla
+71,nocall,rewbla
+72,nocall,rewbla
+73,nocall,rewbla
+74,nocall,rewbla
+75,nocall,rewbla
+76,nocall,rewbla
+77,nocall,rewbla
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,rewbla
+83,nocall,nocall
+84,nocall,rewbla
+85,nocall,nocall
+86,rewbla,nocall
+87,nocall,nocall
+88,nocall,dowwoo
+89,nocall,nocall
+90,nocall,rewbla
+91,nocall,rewbla
+92,nocall,rewbla
+93,nocall,nocall
+94,nocall,nocall
+95,rewbla,nocall
+96,nocall,nocall
+97,nocall,rewbla
+98,nocall,belkin1
+99,nocall,belkin1
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,rewbla
+103,nocall,nocall
+104,rewbla,comgra rewbla
+105,rewbla,rewbla
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,rewbla,rewbla
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,rewbla,nocall
+114,rewbla,rewbla
+115,nocall,nocall
+116,nocall,nocall
+117,rewbla,nocall
+118,nocall,nocall
+119,rewbla,comgra rewbla
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,nocall
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,grycat
+113,nocall,grycat
+114,nocall,grycat
+115,nocall,grycat
+116,grycat,grycat
+117,nocall,norwat
+118,nocall,grycat
+119,nocall,grycat
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,amegfi
+92,nocall,amegfi
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,amegfi
+108,amegfi spotow,amegfi
+109,nocall,nocall
+110,nocall,nocall
+111,nocall,nocall
+112,nocall,nocall
+113,nocall,nocall
+114,nocall,nocall
+115,nocall,nocall
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,nocall,amegfi
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,comyel
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,comyel
+21,nocall,comyel
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,comyel
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,comyel
+47,sonspa,sonspa
+48,nocall,comyel
+49,nocall,sonspa
+50,nocall,comyel
+51,nocall,sonspa
+52,nocall,eastow sonspa
+53,nocall,comyel sonspa
+54,nocall,eastow sonspa
+55,nocall,comyel sonspa
+56,nocall,eastow sonspa
+57,nocall,comyel
+58,nocall,eastow sonspa
+59,nocall,sonspa
+60,nocall,comyel sonspa
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,nocall,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,comyel
+69,nocall,eastow sonspa
+70,nocall,comyel eastow
+71,nocall,eastow
+72,nocall,eastow
+73,nocall,comyel sonspa
+74,nocall,eastow sonspa
+75,nocall,comyel eastow
+76,nocall,nocall
+77,eastow,comyel eastow
+78,eastow,eastow
+79,nocall,nocall
+80,nocall,comyel sonspa
+81,nocall,eastow sonspa
+82,nocall,comyel
+83,nocall,nocall
+84,nocall,comyel
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,comyel
+88,nocall,sonspa
+89,nocall,comyel
+90,sonspa,sonspa
+91,nocall,comyel
+92,nocall,comyel
+93,nocall,nocall
+94,nocall,comyel
+95,nocall,sonspa
+96,nocall,comyel
+97,nocall,nocall
+98,nocall,eastow sonspa
+99,nocall,comyel eastow
+100,nocall,eastow
+101,nocall,eastow
+102,nocall,eastow
+103,nocall,eastow
+104,nocall,eastow
+105,nocall,eastow sonspa
+106,nocall,nocall
+107,nocall,nocall
+108,nocall,sonspa
+109,nocall,nocall
+110,nocall,comyel
+111,nocall,sonspa
+112,nocall,sonspa
+113,nocall,nocall
+114,nocall,comyel
+115,nocall,nocall
+116,nocall,comyel
+117,nocall,nocall
+118,nocall,sonspa
+119,nocall,nocall
+0,nocall,sonspa
+1,nocall,rewbla
+2,nocall,sonspa
+3,nocall,sonspa
+4,nocall,sonspa
+5,nocall,sonspa
+6,nocall,sonspa
+7,nocall,sonspa
+8,nocall,sonspa
+9,nocall,sonspa
+10,sonspa,sonspa
+11,sonspa,sonspa
+12,nocall,sonspa
+13,sonspa,sonspa
+14,sonspa,sonspa
+15,sonspa,sonspa
+16,sonspa,sonspa
+17,sonspa,sonspa
+18,sonspa,sonspa
+19,sonspa,rewbla sonspa
+20,sonspa,sonspa
+21,nocall,sonspa
+22,sonspa,sonspa
+23,sonspa,sonspa
+24,sonspa,sonspa
+25,sonspa,sonspa
+26,nocall,sonspa
+27,sonspa,sonspa
+28,sonspa,norcar sonspa
+29,sonspa,norcar sonspa
+30,nocall,gockin norcar sonspa
+31,sonspa,norcar sonspa
+32,sonspa,sonspa
+33,sonspa,sonspa
+34,nocall,sonspa
+35,sonspa,sonspa
+36,nocall,sonspa
+37,sonspa,sonspa
+38,nocall,sonspa
+39,nocall,sonspa
+40,nocall,sonspa
+41,sonspa,sonspa
+42,nocall,norcar sonspa
+43,nocall,norcar sonspa
+44,nocall,norcar rewbla sonspa
+45,nocall,norcar
+46,nocall,norcar rewbla
+47,nocall,gockin
+48,gockin,nocall
+49,gockin,amegfi gockin
+50,cangoo,cangoo rewbla
+51,cangoo,cangoo
+52,cangoo,cangoo
+53,cangoo,cangoo sonspa
+54,cangoo,cangoo gockin norcar rewbla sonspa
+55,cangoo,cangoo norcar
+56,cangoo,cangoo norcar
+57,nocall,cangoo norcar sonspa
+58,nocall,cangoo gockin rewbla
+59,nocall,cangoo rewbla
+60,gockin,cangoo gockin sonspa
+61,gockin,gockin rewbla sonspa
+62,gockin,gockin rewbla
+63,nocall,rewbla
+64,nocall,cangoo
+65,nocall,cangoo
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,cangoo
+69,nocall,cangoo
+70,gockin,amecro cangoo gockin
+71,sonspa,cangoo sonspa
+72,nocall,cangoo sonspa
+73,rewbla sonspa,rewbla sonspa
+74,nocall,rewbla sonspa
+75,gockin,gockin rewbla sonspa
+76,nocall,gockin rewbla sonspa
+77,nocall,gockin rewbla sonspa
+78,nocall,sonspa
+79,nocall,amerob gockin
+80,rewbla,amerob gockin rewbla sonspa
+81,nocall,amerob gockin sonspa
+82,gockin,gockin sonspa
+83,nocall,rewbla sonspa
+84,nocall,sonspa
+85,nocall,rewbla
+86,nocall,gockin
+87,nocall,nocall
+88,nocall,amerob gockin
+89,gockin,gockin
+90,nocall,amerob
+91,nocall,nocall
+92,nocall,amerob
+93,nocall,amerob
+94,rewbla,nocall
+95,rewbla,nocall
+96,nocall,nocall
+97,rewbla,rewbla swaspa
+98,nocall,nocall
+99,rewbla,nocall
+100,nocall,nocall
+101,rewbla,nocall
+102,nocall,nocall
+103,nocall,rewbla swaspa
+104,nocall,swaspa
+105,nocall,nocall
+106,nocall,blujay
+107,nocall,blujay swaspa
+108,nocall,blujay rewbla swaspa
+109,nocall,swaspa
+110,nocall,blujay swaspa
+111,blujay,blujay
+112,nocall,rewbla
+113,rewbla,rewbla
+114,nocall,nocall
+115,nocall,rewbla
+116,nocall,nocall
+117,nocall,nocall
+118,nocall,nocall
+119,nocall,rewbla
+0,reevir1,reevir1
+1,nocall,reevir1
+2,reevir1,reevir1
+3,reevir1,reevir1
+4,moudov reevir1,reevir1
+5,reevir1,reevir1
+6,nocall,reevir1
+7,reevir1,reevir1
+8,reevir1,reevir1
+9,reevir1,reevir1
+10,reevir1,reevir1
+11,reevir1,reevir1
+12,reevir1,reevir1
+13,reevir1,reevir1
+14,reevir1,reevir1
+15,nocall,reevir1
+16,reevir1,reevir1
+17,reevir1,reevir1
+18,reevir1,reevir1
+19,reevir1,reevir1
+20,reevir1,reevir1
+21,reevir1,reevir1
+22,reevir1,reevir1
+23,reevir1,reevir1
+24,nocall,reevir1
+25,nocall,reevir1
+26,nocall,reevir1
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,reevir1,reevir1
+31,reevir1,reevir1
+32,reevir1,nocall
+33,nocall,reevir1
+34,reevir1,reevir1
+35,reevir1,nocall
+36,reevir1,reevir1
+37,nocall,nocall
+38,reevir1,reevir1
+39,nocall,reevir1
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,bkcchi
+45,bkcchi,bkcchi
+46,nocall,nocall
+47,nocall,bkcchi
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,moudov,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,moudov,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,moudov,nocall
+61,nocall,nocall
+62,nocall,nocall
+63,nocall,nocall
+64,moudov,nocall
+65,nocall,nocall
+66,nocall,nocall
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,moudov,nocall
+72,nocall,nocall
+73,reevir1,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,moudov,nocall
+78,nocall,nocall
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,nocall
+92,nocall,yebsap
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,nocall
+96,nocall,yebsap
+97,nocall,nocall
+98,nocall,nocall
+99,nocall,nocall
+100,nocall,nocall
+101,nocall,nocall
+102,nocall,nocall
+103,nocall,nocall
+104,nocall,nocall
+105,nocall,nocall
+106,nocall,nocall
+107,nocall,yebsap
+108,nocall,yebsap
+109,nocall,yebsap
+110,nocall,nocall
+111,yebsap,yebsap
+112,moudov,nocall
+113,moudov,nocall
+114,nocall,nocall
+115,nocall,yebsap
+116,nocall,yebsap
+117,norcar,nocall
+118,nocall,nocall
+119,nocall,nocall
+0,rewbla,grycat norfli
+1,nocall,grycat norfli
+2,nocall,woothr
+3,lesgol,norfli
+4,nocall,norfli
+5,nocall,nocall
+6,nocall,rewbla
+7,rewbla,nocall
+8,nocall,norfli
+9,nocall,norfli
+10,nocall,nocall
+11,nocall,rewbla
+12,nocall,balori
+13,nocall,blujay
+14,nocall,blujay
+15,nocall,rewbla
+16,nocall,rewbla
+17,bawwar,nocall
+18,bawwar rewbla,nocall
+19,nocall,woothr
+20,nocall,rewbla
+21,nocall,nocall
+22,nocall,norcar
+23,nocall,balori norcar
+24,nocall,norcar
+25,norcar,norcar rewbla
+26,nocall,rewbla
+27,nocall,rewbla
+28,nocall,nocall
+29,nocall,rewbla
+30,amerob,rewbla
+31,nocall,balori rewbla
+32,rewbla,rewbla
+33,nocall,rewbla
+34,rewbla,rewbla
+35,nocall,nocall
+36,nocall,nocall
+37,rewbla,rewbla
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,rebwoo
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,blujay
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,rebwoo
+49,norfli,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,balori haiwoo
+53,nocall,nocall
+54,nocall,balori
+55,nocall,rebwoo
+56,tuftit,balori rebwoo
+57,nocall,balori comgra
+58,balori,balori rewbla
+59,nocall,balori
+60,nocall,balori
+61,balori,balori
+62,nocall,nocall
+63,nocall,balori
+64,nocall,balori
+65,nocall,balori
+66,amerob,balori
+67,nocall,balori grycat
+68,nocall,grycat
+69,nocall,rewbla
+70,nocall,sonspa
+71,nocall,balori
+72,nocall,grycat
+73,grycat,grycat
+74,nocall,balori grycat
+75,nocall,grycat
+76,nocall,balori grycat
+77,nocall,balori grycat
+78,nocall,balori grycat
+79,nocall,balori grycat
+80,sonspa,grycat
+81,nocall,balori grycat
+82,nocall,grycat
+83,grycat,balori grycat
+84,nocall,balori grycat
+85,balori,balori grycat
+86,nocall,balori grycat
+87,balori,balori grycat
+88,nocall,balori grycat
+89,nocall,grycat
+90,sonspa,balori grycat sonspa
+91,nocall,balori grycat sonspa
+92,nocall,balori
+93,nocall,nocall
+94,balori,nocall
+95,nocall,nocall
+96,nocall,nocall
+97,nocall,nocall
+98,bkcchi,bkcchi
+99,bkcchi,balori bkcchi
+100,bkcchi,balori bkcchi
+101,bkcchi,balori bkcchi
+102,bkcchi,balori bkcchi
+103,bkcchi,balori bkcchi
+104,bkcchi,bkcchi
+105,bkcchi,bkcchi
+106,bkcchi,balori bkcchi
+107,bkcchi,bkcchi rebwoo
+108,tuftit,bkcchi
+109,nocall,balori bkcchi
+110,bkcchi,bkcchi
+111,bkcchi,bkcchi
+112,bkcchi,bkcchi norcar
+113,bkcchi,bkcchi norcar
+114,nocall,norcar
+115,bkcchi,bkcchi
+116,nocall,balori
+117,nocall,nocall
+118,bkcchi,bkcchi
+119,bkcchi,bkcchi
+0,nocall,nocall
+1,nocall,nocall
+2,nocall,nocall
+3,nocall,nocall
+4,nocall,nocall
+5,nocall,nocall
+6,nocall,nocall
+7,nocall,nocall
+8,nocall,nocall
+9,nocall,nocall
+10,nocall,nocall
+11,nocall,nocall
+12,nocall,nocall
+13,nocall,nocall
+14,nocall,nocall
+15,nocall,nocall
+16,nocall,nocall
+17,nocall,nocall
+18,nocall,nocall
+19,nocall,nocall
+20,nocall,nocall
+21,nocall,nocall
+22,nocall,nocall
+23,nocall,nocall
+24,nocall,nocall
+25,nocall,nocall
+26,nocall,nocall
+27,nocall,nocall
+28,nocall,nocall
+29,nocall,nocall
+30,nocall,nocall
+31,nocall,nocall
+32,nocall,nocall
+33,nocall,nocall
+34,nocall,nocall
+35,nocall,nocall
+36,nocall,nocall
+37,nocall,nocall
+38,nocall,nocall
+39,nocall,nocall
+40,nocall,nocall
+41,nocall,nocall
+42,nocall,nocall
+43,nocall,nocall
+44,nocall,nocall
+45,nocall,nocall
+46,nocall,nocall
+47,nocall,nocall
+48,nocall,nocall
+49,nocall,nocall
+50,nocall,nocall
+51,nocall,nocall
+52,nocall,nocall
+53,nocall,nocall
+54,nocall,nocall
+55,nocall,nocall
+56,nocall,nocall
+57,nocall,nocall
+58,nocall,nocall
+59,nocall,nocall
+60,nocall,nocall
+61,nocall,chswar
+62,nocall,nocall
+63,nocall,chswar
+64,nocall,nocall
+65,nocall,chswar
+66,nocall,chswar
+67,nocall,nocall
+68,nocall,nocall
+69,nocall,nocall
+70,nocall,nocall
+71,nocall,nocall
+72,nocall,nocall
+73,nocall,nocall
+74,nocall,nocall
+75,nocall,nocall
+76,nocall,nocall
+77,nocall,nocall
+78,nocall,grycat
+79,nocall,nocall
+80,nocall,nocall
+81,nocall,nocall
+82,nocall,nocall
+83,nocall,nocall
+84,nocall,nocall
+85,nocall,nocall
+86,nocall,nocall
+87,nocall,nocall
+88,nocall,nocall
+89,nocall,nocall
+90,nocall,nocall
+91,nocall,chswar
+92,nocall,nocall
+93,nocall,nocall
+94,nocall,nocall
+95,nocall,ovenbi1
+96,nocall,nocall
+97,nocall,nocall
+98,nocall,chswar ovenbi1
+99,nocall,chswar
+100,nocall,nocall
+101,nocall,chswar
+102,nocall,nocall
+103,nocall,chswar
+104,nocall,chswar
+105,nocall,nocall
+106,nocall,chswar
+107,nocall,nocall
+108,nocall,chswar
+109,nocall,nocall
+110,nocall,chswar
+111,nocall,grycat
+112,nocall,nocall
+113,nocall,grycat
+114,nocall,chswar
+115,nocall,nocall
+116,nocall,grycat
+117,grycat,grycat
+118,nocall,nocall
+119,nocall,nocall

@@ -1,0 +1,79 @@
+{
+    "name": "Birdsong_Kaggle",
+    "n_gpu": 1,
+
+    "arch": {
+        "type": "PretrainedModel",
+        "args": {
+            "num_classes": 397,
+            "name": "resnest50"
+        }
+    },
+    "preprocessor":{
+        "type": "MelSpecComputer",
+        "args":{
+            "n_mels": 128,
+            "n_fft": 1600,
+            "f_min": 0,
+            "f_max": 16000,
+            "time_slice": 7,
+            "resample_rate": 32000,
+            "raw_data_dir": "data/download",
+            "processed_data_dir": "data/processed",
+            "bulk_process": false,
+            "split_files": true,
+            "active": true,
+            "extensions": ".ogg"
+        }
+    },
+    "dataset":{
+        "type": "birdclef2",
+        "args":{
+            "download": false,
+            "data_dir": "data/processed",
+            "from_file": true,
+            "alpha": 1
+        }
+    },
+    "data_loader": {
+        "type": "PickledSpectrogramLoader",
+        "args":{
+            "batch_size": 128,
+            "shuffle": false,
+            "validation_split": 0.2,
+            "weighted_sample": false,
+            "num_workers": 4
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args":{
+            "lr": 0.001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+    "loss": "BCE_loss",
+    "metrics": [
+        "tp", "fp", "fn", "tn"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+    "trainer": {
+        "epochs": 100,
+
+        "save_dir": "saved/",
+        "save_period": 1,
+        "verbosity": 2,
+        
+        "monitor": "min val_loss",
+        "early_stop": 10,
+
+        "tensorboard": true
+    }
+}
